@@ -1,3 +1,3 @@
 # MLGC
 
-Marshall Lion Group token contracts
+Marshal Lion Group token contracts
